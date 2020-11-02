@@ -9,3 +9,5 @@ combo
 Newbell
 Bonapriso
 aws
+elastic cash
+SQS
