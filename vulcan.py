@@ -9,3 +9,4 @@ combo
 Newbell
 Bonapriso
 aws
+ebs
