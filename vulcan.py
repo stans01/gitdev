@@ -10,3 +10,5 @@ Newbell
 Bonapriso
 aws
 ebs
+elastic cash
+SQS
