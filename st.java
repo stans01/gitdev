@@ -6,6 +6,6 @@ peter
 john
 micheal
 stanley
+claire
 chuka
 pen
-claire
