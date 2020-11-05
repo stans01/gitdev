@@ -6,4 +6,7 @@ peter
 john
 micheal
 stanley
+chuka
+pen
+claire
 trump
